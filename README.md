@@ -5,6 +5,7 @@ GenSelfDiff-HIS: Generative Self-Supervision Using Diffusion for Histopathologic
 
 Authors
  Vishnuvardhan Purma, Suhas Srinath, Seshan Srirangarajan, Aanchal Kakkar, and Prathosh A.P.
+
 Link: https://ieeexplore.ieee.org/document/10663482
 
 
